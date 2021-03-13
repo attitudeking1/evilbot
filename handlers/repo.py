@@ -15,20 +15,20 @@ from helpers.wrappers import errors, admins_only
 )
 async def start(client: Client, message: Message):
     await message.reply_text(
-        "**êvilẞø†:** if you want musicbot like me then click on repo button to get my repo and click on SESSION button for gernating session and click on heroku botton to deploy me🤍  \n**GO AND DEPLOY ❤️**",
+        "**ELITES MUSIC:** IF YOU WANT TO LISTEN MUSIC IN VOICE CHAT THEN ADD THIS BOT AND @ELITES_MASTER TO GROUP",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "💙 REPO 💙", url="https://github.com/jattpawan/evilbot"
+                        "💙 SUPPORT 💙", url="https://t.me/ELITES_SUPPORT"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "💚 SESSION 💚", url="https://repl.it/@pawanjatt/evilmusicbot"
+                        "💚 MY MASTER 💚", url="https://t.me/VEDIC_MATHS_OWNER"
                     ),
                     InlineKeyboardButton(
-                        "💜 HEROKU 💜", url="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fjattpawan%2Fevilbot&template=https%3A%2F%2Fgithub.com%2Fjattpawan%2Fevilbot"
+                        "💜OFFICIAL CHANNEL💜", url="https://t.me/THE_ELITES_NETWORK"
                     )
                 ],
                 [
@@ -47,20 +47,20 @@ async def start(client: Client, message: Message):
 )
 async def start_(client: Client, message: Message):
     await message.reply_text(
-        "**êvilẞø†:** if you want musicbot like me then click on repo button to get my repo and click on SESSION button for gernating session and click on heroku botton to deploy me🤍  \n**GO AND DEPLOY ❤️**",
+       "**ELITES MUSIC:** IF YOU WANT TO LISTEN MUSIC IN VOICE CHAT THEN ADD THIS BOT AND @ELITES_MASTER TO GROUP",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "💙 REPO 💙", url="https://github.com/jattpawan/evilbot"
+                        "💙 SUPPORT 💙", url="https://t.me/ELITES_SUPPORT"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "💚 SESSION 💚", url="https://repl.it/@pawanjatt/evilmusicbot"
+                        "💚 MY MASTER 💚", url="https://t.me/VEDIC_MATHS_OWNER"
                     ),
                     InlineKeyboardButton(
-                        "💜 HEROKU 💜", url="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fjattpawan%2Fevilbot&template=https%3A%2F%2Fgithub.com%2Fjattpawan%2Fevilbot"
+                        "💜OFFICIAL CHANNEL💜", url="https://t.me/THE_ELITES_NETWORK"
                     )
                 ],
                 [
